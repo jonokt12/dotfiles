@@ -2,4 +2,6 @@
 
 [ -f "$HOME/.xprofile" ] && . ~/.xprofile
 
+setxkbmap latam
+
 exec i3

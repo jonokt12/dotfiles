@@ -8,7 +8,7 @@ super + r
 super + e
 	$TERMINAL -e neomutt
 super + m
-	$TERMINAL -e ncmpcpp
+	spotify
 super + n
 	$TERMINAL -e newsboat
 super + i
