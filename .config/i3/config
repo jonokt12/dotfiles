@@ -194,3 +194,7 @@ bindsym $mod+Shift+Left		move left
 bindsym $mod+Shift+Down		move down
 bindsym $mod+Shift+Up		move up
 bindsym $mod+Shift+Right 	move right
+#remove gaps for 1337 screen usage
+gaps inner 2
+gaps outer 2
+

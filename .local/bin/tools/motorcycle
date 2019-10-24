@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+mpc stop
+mpc play
